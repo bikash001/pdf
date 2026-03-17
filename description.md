@@ -1,0 +1,1 @@
+Build a pdf reader using python which should be able to load password protected pdf file and it should be able to save a copy of the file without password.
